@@ -21,7 +21,7 @@ print(len(set(test)))
 plt.show()
 
 #from music21 import *
-
+#
 #M=list()
 #M.append(converter.parse('./data/Mario/1_SMB_OVERWORLD_115_BPM.mid'))
 #M.append(converter.parse('./data/Mario/2_SMB3_OVERWORLD_140_BPM.mid'))
